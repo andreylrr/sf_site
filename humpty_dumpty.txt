@@ -2,3 +2,10 @@ Humpty Dumpty sat on a wall,
 Humpty Dumpty had a great fall;
 All the king's horses and all the king's men
 Couldn't put Humpty together again.
+
+The earliest known version:
+
+Humpty Dumpty sat on a wall,
+Humpty Dumpty had a great fall.
+Four-score Men and Four-score more,
+Could not make Humpty Dumpty where he was before.
